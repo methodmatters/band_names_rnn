@@ -1,2 +1,4 @@
 # band_names_rnn
-data and code for blog post on generating band names with recurrent neural networks
+Data and code for blog post on generating band names with recurrent neural networks
+
+The blog post is found at this link: [LINK]
